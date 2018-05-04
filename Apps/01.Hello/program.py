@@ -6,4 +6,4 @@ print()
 user_text = input('What is your name? ')
 greeting = 'Nice to meet you ' + user_text
 
-print(greeting)
+print(greeting)  # TODO make this fancier
